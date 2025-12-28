@@ -29,7 +29,7 @@ For the first part of the algorithm, I imported the `allow_list.txt` by using `i
 
 The Result: 
 
-![VSCodium_kuQb9u8xFI]()
+![Image1](https://github.com/BikDHINDSA/Cybersecurity_Portfolio/blob/main/Assets/8.u_1.png)
 
 ## Convert the String into a List
 ```
@@ -147,7 +147,7 @@ The argument `w` with the `open()` and `with` statement, indicates the file that
 > The file `allow_list.txt` that I attached in this directory is the initial file. You might wanna run the code and observe its content to be revised. Otherwise, please head to `allow_list_revised.txt` to observe the differences. 
 
 The result in the new `allow_list.txt` (13 IP addresses): 
-![VSCodium_2IJHBymnA6]()
+![Image2](https://github.com/BikDHINDSA/Cybersecurity_Portfolio/blob/main/Assets/8.u_2.png)
 
 ## Summary
 First, I opened the file and identified `remove_list` variable from `allow_list.txt`. Second, I converted the string into a list. Third, I removed some IP addresses from the list. Fourth, I converted the list into a string format and revise the `allow_list.txt`. 
