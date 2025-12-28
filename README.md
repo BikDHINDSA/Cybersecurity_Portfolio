@@ -17,7 +17,7 @@ Hello! Thank you for coming here. I'd love to chat with people☕.
 * Developed a rigorous cybersecurity project portfolio on mock clients covering NIST, audits, Linux, SQL, assets, threats, vulnerabilities, detection, incident response, escalation, Wireshark, tcpdump, IDS, SIEM, and Python automation.
 
 𝑲𝒆𝒚 𝑺𝒌𝒊𝒍𝒍𝒔:
-* Microsoft Entra ID, Microsoft Intune & Exchange, Troubleshooting Hardware & Software, Windows, MacOS, Slack, JIRA, Office 365, Zapier, Networking, Domain Management, SFTP, Python.
+* Troubleshooting Hardware & Software, Windows, MacOS, Slack, JIRA, Office 365, Zapier, Networking, Domain Management, SFTP, Python.
 
 𝑰𝒏𝒕𝒆𝒓𝒆𝒔𝒕𝒔:
 * Research, Cybersecurity, Artificial Intelligence, IT Infrastructure, Python, Azure, Google Cloud, AWS, Linux, Data Analytic, Blockchain, Open Source, Travelling.
