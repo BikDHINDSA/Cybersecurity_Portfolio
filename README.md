@@ -70,8 +70,6 @@ Several tools that I used:
 * Suricata
 * Python 
 
-### Other references 
-
 
 **Stay tuned for updates!**
 
