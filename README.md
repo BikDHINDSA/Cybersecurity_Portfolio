@@ -1,15 +1,16 @@
 # BikDhindsa-Cybersecurity-Portfolio
-> Modul 1-8 are inspired by Google. Please visit this [link](https://www.coursera.org/google-certificates/cybersecurity-certificate) for further information. More are to come, stay tuned!
 
 > Please make sure you include the original MIT license.
  
 ## Professional Statements
-Hello! Thank you for coming here. I'd love to chat with people☕.
+Hello! Thank you for coming here. 
 
-𝑺𝒖𝒎𝒎𝒂𝒓𝒚: 
-* Bachelor of Computer Science Engineering providing technical and cybersecurity support as an Application Support Engineer.
+$WHOIS "BIKRAM": 
+* Bachelor of Computer Science Engineering 
+* Cisco Certified Network Associate Certificate Holder.
 * CompTIA Security+ Certificate Holder.
-* Google Cybersecurity certificates Holder.
+* Google Cybersecurity Certificate Holder.
+* Currently Pursuing Try Hack Me -- SOC path.
 * Currently Pursuing AZ-900, Splunk Core Certifications!(Updates Soon)
 
 
@@ -26,8 +27,6 @@ Thank you for your time.
 I'd welcome the chance to connect! Feel free to reach out.
 
 ## Portfolio
-> Please visit this [link](https://www.coursera.org/professional-certificates/google-cybersecurity) for further information.
-
 > Some of my documents are in PDF format to accommodate advanced formatting, include colorful presentations, and incorporate abundant screenshots for enhanced clarity and detail.
 
 I have developed a cybersecurity portfolio showcasing various tasks and projects completed during my journey to earn the Google Cybersecurity Professional Certificate. This program has provided insights into:
@@ -59,16 +58,20 @@ Additionally, it has paved the way for me to pursue one of the entry-level follo
 
 ### Tools 
 Several tools that I used: 
-* Google Workspace (Drive, Docs, Sheets, Slides)
-* Markdown Language 
 * Tcpdump
 * Wireshark
-* Linux OS
+* Linux
+* Windows
 * SQL
 * Chronicle
 * Splunk
+* Elastic
 * Suricata
-* Python 
+* Python
+* Bash
+* Docker
+* AI
+  
 
 
 **Stay tuned for updates!**
