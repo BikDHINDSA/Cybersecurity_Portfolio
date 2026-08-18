@@ -1,81 +1,50 @@
-# BikDhindsa-Cybersecurity-Portfolio
+# Bikram Dhindsa — Cybersecurity Portfolio
 
-> Please make sure you include the original MIT license.
- 
-## Professional Statements
-Hello! Thank you for coming here. 
+Hands-on cybersecurity project portfolio covering security audits, network
+security, Linux & SQL, asset/threat/vulnerability management, detection &
+response, packet analysis, IDS/SIEM investigation, and Python automation —
+built during the Google Cybersecurity Professional Certificate program and
+extended through independent practice.
 
-$WHOIS "BIKRAM": 
-* Bachelor of Computer Science Engineering 
-* Cisco Certified Network Associate Certificate Holder.
-* CompTIA Security+ Certificate Holder.
-* Google Cybersecurity Certificate Holder.
-* Currently Pursuing Try Hack Me -- SOC path.
-* Currently Pursuing AZ-900, Splunk Core Certifications!(Updates Soon)
+## About
 
+Bachelor of Engineering, Computer Science. Security operations background
+with hands-on experience in SIEM investigation, log analysis, and incident
+triage.
 
-𝑪𝒚𝒃𝒆𝒓𝒔𝒆𝒄𝒖𝒓𝒊𝒕𝒚 𝑷𝒐𝒓𝒕𝒇𝒐𝒍𝒊𝒐:
-* Developed a rigorous cybersecurity project portfolio on mock clients covering NIST, audits, Linux, SQL, assets, threats, vulnerabilities, detection, incident response, escalation, Wireshark, tcpdump, IDS, SIEM, and Python automation.
+**Certifications**
+- CompTIA Security+ (SY0-701)
+- Cisco Certified Network Associate (CCNA)
+- Google Cybersecurity Professional Certificate
+- TryHackMe SOC Level 1 — Completed
+- TryHackME CyberSecurity 101 - Completed
+- Microsoft SC-900 - In Progress
 
-𝑲𝒆𝒚 𝑺𝒌𝒊𝒍𝒍𝒔:
-* Troubleshooting Hardware & Software, Windows, MacOS, Slack, JIRA, Office 365, Zapier, Networking, Domain Management, SFTP, Python.
+**Target roles:** SOC Analyst · Cybersecurity Analyst · Security Analyst ·
+Information Security Analyst · Cyber Defense Analyst
 
-𝑰𝒏𝒕𝒆𝒓𝒆𝒔𝒕𝒔:
-* Research, Cybersecurity, Artificial Intelligence, IT Infrastructure, Python, Azure, Google Cloud, AWS, Linux, Data Analytic, Blockchain, Open Source, Travelling.
+## Portfolio Modules
 
-Thank you for your time. 
-I'd welcome the chance to connect! Feel free to reach out.
+| Module | Focus | Skills / Knowledge Demonstrated |
+|---|---|---|
+| [1 - Conduct an Audit](./1%20-%20Conduct%20an%20Audit) | Security audit | NIST Risk Management Framework, NIST Cybersecurity Framework, CIA Triad, Incident Response Playbooks |
+| [2 - Network Security](./2%20-%20Network%20Security) | Network architecture | TCP/IP model, network communication, security hardening, cloud networks |
+| [3 - Linux & SQL](./3%20-%20Linux%20%26%20SQL) | Command-line & querying | Linux file/user permissions, Bash, SQL (WHERE filters, JOINs), regex-based log filtering |
+| [4 - Assets, Threats & Vulnerabilities](./4%20-%20Assets%20%26%20Threats%20%26%20Vulnerabilities) | Risk & threat modeling | Asset inventory, risk register, vulnerability assessment, PASTA threat model, hash verification & encryption/decryption (data integrity) |
+| [5 - Detection & Response](./5%20-%20Detection%20%26%20Response) | Incident handling | Incident lifecycle, incident handler's journal |
+| [6 - Tcpdump & Wireshark](./6%20-%20Tcpdump%20%26%20Wireshark) | Packet analysis | Packet capture and inspection |
+| [7 - IDS & SIEM](./7%20-%20IDS%20%26%20SIEM) | Detection engineering | Suricata IDS, Splunk SIEM, Chronicle SIEM |
+| [8 - Automation with Python](./8%20-%20Automation%20with%20Python) | Automation | Python scripting, PEP 8 |
 
-## Portfolio
-> Some of my documents are in PDF format to accommodate advanced formatting, include colorful presentations, and incorporate abundant screenshots for enhanced clarity and detail.
+## Tools
 
-I have developed a cybersecurity portfolio showcasing various tasks and projects completed during my journey to earn the Google Cybersecurity Professional Certificate. This program has provided insights into:
-* Programming for cybersecurity tasks
-* Frameworks and controls that inform security operations
-* SIEM tools for cybersecurity
-* Detecting and responding to incidents using an intrusion detection system
-* Performing packet capture and analysis
+Linux · Windows · SQL · Splunk · Chronicle · Elastic · Suricata · tcpdump ·
+Wireshark · Python · Bash · Docker
 
-Additionally, it has paved the way for me to pursue one of the entry-level following roles:
-* Cybersecurity Analyst
-* Security Analyst
-* SOC Analyst
-* Information Security Analyst
-* IT Security Analyst
-* Cyber Defense Analyst
+## License
 
-### Skills  
-| Projects | Skills/Knowledge Gained | 
-| :--- |:---:|
-| [1]() - Conduct a security audit | `INFOSEC`, `NIST Risk Management Framework`, `Security Audits`, `NIST Cybersecurity Framework`, `Incident Response Playbooks`, `CISSP`, `CIA triad` |
-| [2]() - Network Security | `TCP/IP model`,  `Network Architecture`, `Network Communication`, `Security Hardening`, `Network Security`, `Cloud Networks` | 
-| [3]() - Linux & SQL | `Command-line Interface`, `SQL`, `Linux`, `Bash` | 
-| [4]() - Assets, Threats, & Vulnerabilities | `Authentication`, ` Vulnerability assessment`, `Cryptography`, `Asset Classification`, `Threat Modelling Analysis`|
-| [5]() - Detection & Response | `Incident Lifecycle`, `Incident Journal` |
-| [6]() - Tcpdump & Wireshark | `Packet Analyzer` | 
-| [7]() - IDS & SIEM | `Intrusion Detection System (IDS): Suricata`, `Security Information and Event Management (SIEM): Chronicle, Splunk` |
-| [8]() - Automation with Python | `Computer Programming`, `Python Programming`, `Coding`, `PEP 8 Style Guide`| 
+MIT — see [LICENSE](./LICENSE)
 
-### Tools 
-Several tools that I used: 
-* Tcpdump
-* Wireshark
-* Linux
-* Windows
-* SQL
-* Chronicle
-* Splunk
-* Elastic
-* Suricata
-* Python
-* Bash
-* Docker
-* AI
-  
+## Contact
 
-
-**Stay tuned for updates!**
-
-This portfolio will continuously grow as I complete more certificates and projects. I encourage you to visit again to see my progress and learn more about my skills and experience.
-Thank you for your time. For more information, please connect with me on [Linkedin](https://www.linkedin.com/in/dhindsa-bikram/).
-
+[LinkedIn](https://www.linkedin.com/in/dhindsa-bikram/) · [GitHub](https://github.com/BikDHINDSA)
